@@ -1,6 +1,6 @@
 Hi
 I created a website to downlaod all ubuntu apps like : wine , gimp , librecad , sturtup disk creator , blender and more..
-you cannot find this packages deb files anywhere !
+you cannot find these packages deb files anywhere !
 you can email me to upload apps is not there
 and you can help me by email me to upload apps : )
 
